@@ -16,14 +16,16 @@ User Overview - Overview of tasks statistics for signed in user
 User list - List of users and respective passwords and key/value pairs.
 
 
-Installation
+Installation:
 
 None required, just run SET1task.py on terminal.
 
-Usage
+Usage:
 
 Sign in with username: admin and password: password, follow prompts for desired usage.
 
-Credits
+Credits:
+
 HyperionDev Team
+
 Jonathan Yan
